@@ -1,18 +1,14 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5.3 virtualenv at ~/dev/api.salon/environment interpreter library">
+    <library name="Python 3.5.3 virtualenv at ~/dev/api.salon/env interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/lib-dynload" />
         <root url="file:///usr/lib/python3.5" />
         <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
-        <root url="file:///usr/lib/python3.5/site-packages" />
-        <root url="file:///usr/local/lib/python3.5/dist-packages" />
-        <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/52935108" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1262871894" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
@@ -24,17 +20,13 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/lib-dynload" />
         <root url="file:///usr/lib/python3.5" />
         <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file://$USER_HOME$/dev/api.salon/environment/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
-        <root url="file:///usr/lib/python3.5/site-packages" />
-        <root url="file:///usr/local/lib/python3.5/dist-packages" />
-        <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/52935108" />
+        <root url="file://$USER_HOME$/dev/api.salon/env/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1262871894" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
