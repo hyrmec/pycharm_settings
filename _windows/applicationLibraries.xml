@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="Remote Python 3.5.3 (sftp://root@localhost:52022/api.spn/env/bin/python3.5) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Remote Python 3.5.3 (ssh://root@localhost:52024/flask_api/env/bin/python3.5) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Remote Python 3.5.3 (ssh://root@localhost:52025/new.api.spn/env/bin/python3.5) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
