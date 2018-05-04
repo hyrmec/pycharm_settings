@@ -15,5 +15,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.5.3 (ssh://root@localhost:52027/django_rest/env/bin/python3.5) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
