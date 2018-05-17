@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (env) interpreter library">
+    <library name="Python 3.6 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/projects/api.spn.market/env/lib/python3.6" />
         <root url="file://$USER_HOME$/projects/api.spn.market/env/lib/python3.6/lib-dynload" />
