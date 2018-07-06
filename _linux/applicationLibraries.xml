@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (Django-lope) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Python 3.6 (env) interpreter library">
+    <library name="Python 3.6 (lope) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
@@ -41,6 +36,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="Python 3.6 (lope) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="Python 3.6 (lope_api) interpreter library">
       <CLASSES>
