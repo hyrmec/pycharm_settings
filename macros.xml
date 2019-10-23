@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="dict formats">
+      <action id="Replace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="54:1;57:1;92:0;83:0;61:1;48:1;57:1;92:0;87:0;61:1;48:1">^(\s+)(\w+)</typing>
+      <shortuct text="TAB" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="52:1;49:0;222:0;52:1;50:0;222:0;59:1;32:0;44:0">$1'$2':&amp;#x20;,</typing>
+    </macro>
+  </component>
+</application>
