@@ -1,5 +1,0 @@
-<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="control alt button3" />
-  </action>
-</keymap>
