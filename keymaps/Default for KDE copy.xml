@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="BLACKReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
