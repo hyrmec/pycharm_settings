@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="$FilePath$ -l 120 -S" />
+        <option name="arguments" value="$FilePath$ -S -l 120" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
