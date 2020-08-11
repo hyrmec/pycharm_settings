@@ -1,0 +1,9 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/projects/caft/bpm/sm_caft" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/rgsb/bpm/bpm_engine" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/sm_rgsb" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/projects/userdata" firstStartUp="false" />
+  </component>
+</application>
