@@ -17,6 +17,7 @@
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
+      <mapping ext="rst_t" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
