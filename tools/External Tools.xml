@@ -1,14 +1,14 @@
 <toolSet name="External Tools">
   <tool name="Black" description="Black is the uncompromising Python code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/bpm_engine-8yljxZZI/bin/black " />
+      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/sm_caft-txR-iI_q/bin/black" />
       <option name="PARAMETERS" value="$FilePath$ -l 120 -S" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="isort" description="sorts imports" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/bpm_engine-8yljxZZI/bin/isort" />
+      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/sm_caft-txR-iI_q/bin/isort" />
       <option name="PARAMETERS" value="." />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
