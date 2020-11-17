@@ -10,6 +10,7 @@
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="consent.json" type="PLAIN_TEXT" />
+      <mapping pattern="underwriting" type="PLAIN_TEXT" />
       <mapping pattern="consent" type="PLAIN_TEXT" />
       <mapping pattern="pts_resend.json" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
